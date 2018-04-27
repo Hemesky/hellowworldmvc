@@ -48,7 +48,7 @@ public class DAOHelloWorld {
         this.helloWorldMessage = helloWorldMessage;
     };
 	
-	public void HelloWorldMessage (String HelloWorldMessage) {};
+	
 	
 	
 	
